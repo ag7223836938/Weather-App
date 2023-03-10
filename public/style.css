@@ -1,0 +1,22 @@
+div{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+body{
+    background:linear-gradient(to right, blue, red);
+    /* linear-gradient(to right,rgb(89, 89, 221) 50%,white); */
+    color: aliceblue;
+    font-size: 2rem;
+}
+button{
+    height: 2rem;
+    width: 3rem;
+}
+input{
+    height: 2rem;
+}
+p{
+    font-size: 2rem;
+}
